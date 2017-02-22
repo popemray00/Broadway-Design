@@ -11,6 +11,9 @@ color: white;
 }
 h1 {
   color: white;
+  font-size: 70px;
+  font-weight: bold;
+
 }
 
 #footer {
@@ -21,4 +24,32 @@ h1 {
 
 a {
   color: white;
+}
+
+.menu {
+  font-size: 18px;
+}
+
+.description {
+  font-size: 14px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+
+
+h3.header{
+  font-size: 23px;
+}
+
+span {
+  font-size: 11px;
 }
